@@ -37,6 +37,7 @@
                         <option value="35">35%</option>
                     </select>
                 </div>
+                <input type="submit" name="submit" id="submit" class="btn btn-primary">
             </form>
             <button name="clear" class="btn btn-secondary"> clear calculator </button>
             <?php require('calculate-script.php'); ?>
